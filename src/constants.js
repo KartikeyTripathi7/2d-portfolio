@@ -8,7 +8,7 @@ export const dialogueData = {
   "sofa-table": `That's my sofa. I like to relax here and watch YouTube. I also lie down and play some mobile games.`,
   tv: `That's my TV. I love to watch football and sci-fi movies I also watch some tv-series and video songs on it.`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/KartikeyTripathi7/myResume/blob/346ed8919ed3efd46fafed1e8a469ce425d84c7c/KARTIKEYTRIPATHI_InternshalaResume_240409_190159.pdf" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/16QY8TnPrpErS40k8pCZC-iU-dQ7fr-YJ/view?usp=sharing">Check it out?</a>
   Contact me at tripathikartikey0007@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
